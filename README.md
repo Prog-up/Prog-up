@@ -1,7 +1,7 @@
 # Enzo JUHEL
 ## Computer Science Student
 ## PROFILE
-Dynamic student with a passion for IT, in the engineering cycle at EPITA in Rennes. Possessing a solid background in programming and development, alongside an international semester in India, enriching my technical and linguistic skills (English).
+21 year old dynamic student with a passion for IT and AI, in the engineering cycle at EPITA in France. Possessing a solid background in programming and development, enriched by an international internship in India.
 
 ---
 ## Looking for an Internship
