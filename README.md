@@ -2,7 +2,7 @@
 
 # Enzo Juhel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=AI+Software+Engineer+%7C+Multi-Agent+Systems;On-Device+LLM+Inference+%26+Optimization;DevSecOps+%26+Hardened+Infrastructure;Candidate+Dual+M.S.+EPITA+%2B+Boston+University)](https://github.com/Prog-up)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=AI+Software+Engineer+%7C+Multi-Agent+Systems;On-Device+LLM+Inference+%26+Optimization;DevSecOps+%26+Hardened+Infrastructure;Candidate+Dual+M.S.+EPITA+%2B+Boston+University)
 
 <p align="center">
   <b>Dual M.S. Candidate in Computer Science & Cybersecurity</b><br>
@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/enzo-juhel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/Prog-up"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://github.com/Prog-up"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
