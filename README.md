@@ -61,13 +61,13 @@ I am an **AI Software Engineer & Systems Developer** focused on the intersection
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Prog-up">Autonomous Multi-Agent Honeypot</a></h3>
+      <h3>🤖 <a href="https://github.com/Kylian14/MirAIge">Autonomous Multi-Agent Honeypot (Mir[AI]ge)</a></h3>
       <p><b>🥇 1st Place Winner — OVHcloud Hackathon (2026)</b></p>
       <ul>
         <li>Engineered a dynamic, procedural honeypot powered by <b>Agent-to-Agent (A2A)</b> multi-agent orchestration.</li>
-        <li>Autonomous agents dynamically engage, mislead, and profile threat actors while extracting actionable forensic telemetry in real time.</li>
+        <li>Cooperative agents dynamically detect threats (T0 Sigma, T1 heuristics, T2 LLM), reroute traffic, and mislead threat actors while extracting forensic telemetry.</li>
       </ul>
-      <p><b>Tech:</b> <code>Python</code> <code>A2A Multi-Agent</code> <code>LLM Reasoning</code> <code>Docker</code></p>
+      <p><b>Tech:</b> <code>Python</code> <code>A2A Multi-Agent</code> <code>MCP</code> <code>OpenStack / Octavia</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔌 <a href="https://github.com/Prog-up/ai-agent">Model Context Protocol (MCP) Ecosystem</a></h3>
@@ -86,7 +86,7 @@ I am an **AI Software Engineer & Systems Developer** focused on the intersection
 
 ### 🏆 Honors & Competitions
 
-- 🥇 **1st Place Winner** — [OVHcloud Hackathon](https://www.ovhcloud.com/) (2026): *Autonomous Procedural Honeypot with A2A Multi-Agent Architecture*
+- 🥇 **1st Place Winner** — [OVHcloud Hackathon](https://www.ovhcloud.com/) (2026): *[Mir[AI]ge: Autonomous Procedural Honeypot](https://github.com/Kylian14/MirAIge) with A2A Multi-Agent Architecture*
 - 🚩 **5th / 40 Teams** — *Hack'Lantique National Cybersecurity CTF* (2026)
 - 🚩 **12th / 100 Teams** — *BreizhCTF* (2026)
 
