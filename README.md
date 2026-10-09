@@ -62,7 +62,7 @@ I am an **AI Software Engineer & Systems Developer** focused on the intersection
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Kylian14/MirAIge">Autonomous Multi-Agent Honeypot (Mir[AI]ge)</a></h3>
-      <p><b>🥇 1st Place Winner — OVHcloud Hackathon (2026)</b></p>
+      <p><b>🥇 1st Place Winner — OVHcloud Hackathon (2026)</b> • <a href="https://miraige.vercel.app/"><b>[Live Webpage / Console]</b></a></p>
       <ul>
         <li>Engineered a dynamic, procedural honeypot powered by <b>Agent-to-Agent (A2A)</b> multi-agent orchestration.</li>
         <li>Cooperative agents dynamically detect threats (T0 Sigma, T1 heuristics, T2 LLM), reroute traffic, and mislead threat actors while extracting forensic telemetry.</li>
@@ -86,7 +86,7 @@ I am an **AI Software Engineer & Systems Developer** focused on the intersection
 
 ### 🏆 Honors & Competitions
 
-- 🥇 **1st Place Winner** — [OVHcloud Hackathon](https://www.ovhcloud.com/) (2026): *[Mir[AI]ge: Autonomous Procedural Honeypot](https://github.com/Kylian14/MirAIge) with A2A Multi-Agent Architecture*
+- 🥇 **1st Place Winner** — [OVHcloud Hackathon](https://www.ovhcloud.com/) (2026): *[Mir[AI]ge: Autonomous Procedural Honeypot](https://github.com/Kylian14/MirAIge)* ([Live Webpage](https://miraige.vercel.app/)) with A2A Multi-Agent Architecture
 - 🚩 **5th / 40 Teams** — *Hack'Lantique National Cybersecurity CTF* (2026)
 - 🚩 **12th / 100 Teams** — *BreizhCTF* (2026)
 
